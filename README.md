@@ -35,14 +35,20 @@
 [![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)](#)
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)](#)
 [![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white)](#)
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](#)
 
+[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)](#)
 [![ModelSim](https://img.shields.io/badge/ModelSim-007ACC?style=flat-square&logoColor=white)](#)
 [![Keil uVision](https://img.shields.io/badge/Keil%20uVision-00A4DC?style=flat-square&logoColor=white)](#)
 [![OrCAD](https://img.shields.io/badge/OrCAD-B20000?style=flat-square&logoColor=white)](#)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](#)
+
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](#)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![QBasic](https://img.shields.io/badge/QBasic-008080?style=for-the-badge&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6800?style=for-the-badge&logo=burp-suite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ## 📊 GitHub Stats:
