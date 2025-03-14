@@ -42,8 +42,8 @@
 [![OrCAD](https://img.shields.io/badge/OrCAD-B20000?style=flat-square&logoColor=white)](#)
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)](#)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](#)
-
 [![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white)](#)
+
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![QBasic](https://img.shields.io/badge/QBasic-008080?style=for-the-badge&logoColor=white)
