@@ -50,6 +50,11 @@
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6800?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-FFBF00?style=flat-square&logo=semgrep&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bihan-Banerjee&show_icons=true&theme=dark)
