@@ -58,13 +58,3 @@
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bihan-Banerjee&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bihan-Banerjee&layout=compact&theme=dark)
-
-
-## **🌍 Let's Connect!**  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/bihan-banerjee-70905228b))
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)]((https://github.com/Bihan-Banerjee))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)]([https://linkedin.com/in/yourname](https://www.instagram.com/banerjee.bihan))
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)]([https://reddit.com/u/yourusername](https://www.reddit.com/user/Darthbihan))
