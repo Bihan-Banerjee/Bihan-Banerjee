@@ -166,6 +166,7 @@ const bihan: Developer = {
 | 🛡️ **[CyberX](https://cyber-x-coral.vercel.app/)** | AI-powered red/blue team cybersecurity simulator with 25+ tools, PPO agents & real-time globe visualizations | `Python` `MERN` `RL` | ✅ |
 | 🔐 **GuardOps** *(In Progress)* | Real-time DevSecOps observability platform with threat intelligence, pipeline security & drift detection | `Kubernetes` `Python` `Grafana` `Nginx` | 🚧 |
 | 🔍 **[FortiScan](https://ai-code-security.vercel.app/)** | Detects & auto-remediates vulnerabilities in LLM-generated code. Reduces insecure patterns by 70–85% | `MERN` `Flask` `Semgrep` | ✅ |
+| 📊 **[SheetSync](https://sheet-sync-beryl.vercel.app/)** | Real-time collaborative spreadsheet with sub-second sync, formula engine, cursor presence & full Google auth — rivalling Google Sheets | `Next.js` `Tailwind` `Firebase` | ✅ |
 | 🌿 **[Serenity Gardens](https://www.serenitygardens.online/)** | Full-stack MERN e-commerce platform with Razorpay, JWT auth, persistent cart & admin dashboard | `MERN` `TypeScript` `Razorpay` | ✅ |
 | 🗺️ **[Map-It](https://map-it-9g3b.vercel.app/)** | Interactive geolocation utility with Leaflet maps, custom markers, clustering & GeoJSON layers | `MERN` `Leaflet` `Tailwind` | ✅ |
 | 💊 **[NeuroPharm](https://gen-z-ai-neuro-pharm.vercel.app/)** | AI-driven drug discovery platform with AlphaFold + ChEMBL APIs & 3D molecular visualization | `React` `Python` `AlphaFold` | ✅ |
