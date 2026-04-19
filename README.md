@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Dynamic Header with Gradient -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:0d1117,100:58a6ff&height=180&section=header&text=Bihan%20Banerjee&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=CS%20Student%20%7C%20Security%20Engineer%20%7C%20AI%20Builder&descSize=18&descColor=8b949e&descAlignY=58&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:0d1117,100:58a6ff&height=180&section=header&text=Bihan%20Banerjee&fontSize=60&fontColor=58a6ff&fontAlignY=38&desc=Cybersecurity%20Enthusiast%20%7C%20Full%20Stack%20Developer%20%7C%20DevSecOps%20Engineer&descSize=18&descColor=8b949e&descAlignY=58&animation=twinkling"/>
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+%26+Security+Engineer+%F0%9F%9B%A1%EF%B8%8F;MLOps+%7C+DevSecOps+%7C+AI+Systems+Builder;Patent+Holder+%7C+Open+Source+Contributor;Red+Team+%7C+Blue+Team+%7C+Reinforcement+Learning;Building+GuardOps+%F0%9F%94%90+%E2%86%92+The+Future+of+DevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Full+Stack+%26+Security+Engineer;DevSecOps+%7C+MLOps+%7C+AI+Systems+Builder;Patent+Holder+%7C+Open+Source+Contributor;Red+Team+%7C+Blue+Team+%7C+Reinforcement+Learning;" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,28 +31,18 @@ const bihan: Developer = {
   year:        "3rd Year Undergraduate (2023–2027)",
   
   currentlyBuilding: [
-    "GuardOps  — Real-time DevSecOps intelligence platform",
+    "GuardOps  — Autonomous DevSecOps CLI Platform",
     "CyberX    — AI-powered red/blue team cybersecurity simulator",
   ],
   
-  interests:   ["AI/ML Systems", "Cybersecurity", "DevSecOps", "Game Dev"],
+  interests:   ["Cybersecurity", "DevSecOps", "Web Development", "AI/ML Systems"],
   patent:      "Intelligent Real-Time Security Analysis for AI-Generated Code",
-  
-  funFact:     "I break things to understand them, then build them better 🔥"
 };
 ```
 
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=Bihan-Banerjee&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8" width="55%" alt="Activity Graph"/>
-
-### 🎯 What I'm up to:
-
-- 🔐 Building **GuardOps** — a DevSecOps observability & threat-intel platform
-- 🤖 Researching **PPO-based adversarial AI agents** for cyberattack simulation
-- 📜 Filed a **Patent** with Intellectual Property India (2026)
-- 🎓 Serving as **General Secretary**, Mozilla Firefox Club VIT
-- 🌱 Deepening expertise in **Kubernetes, Terraform & cloud-native security**
-
-<br clear="right"/>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Bihan-Banerjee&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
+</div>
 
 ---
 
@@ -72,16 +62,6 @@ const bihan: Developer = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Bihan-Banerjee&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
-
-</div>
-
----
-
 ## 🛠️ Tech Arsenal
 
 ### 💻 Languages
@@ -94,6 +74,7 @@ const bihan: Developer = {
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![QBasic](https://img.shields.io/badge/QBasic-008080?style=flat-square&logoColor=white)
 
 ### 🌐 Frontend & UI
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
@@ -105,7 +86,7 @@ const bihan: Developer = {
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 
 ### ⚙️ Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
@@ -123,6 +104,8 @@ const bihan: Developer = {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat-square&logo=logstash&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
 
 ### 🔐 Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
@@ -134,8 +117,9 @@ const bihan: Developer = {
 ![Bandit](https://img.shields.io/badge/Bandit-FF4444?style=flat-square&logo=python&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasecurity&logoColor=white)
 
-### 🏗️ DevOps & Cloud · *(Powering GuardOps)*
+### 🏗️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
@@ -160,6 +144,7 @@ const bihan: Developer = {
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![WandB](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
 
 ### 🎮 Creative & Other
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
@@ -168,6 +153,7 @@ const bihan: Developer = {
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=flat-square&logo=audacity&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
@@ -178,12 +164,12 @@ const bihan: Developer = {
 | Project | Description | Stack | Live |
 |---------|------------|-------|------|
 | 🛡️ **[CyberX](https://cyber-x-coral.vercel.app/)** | AI-powered red/blue team cybersecurity simulator with 25+ tools, PPO agents & real-time globe visualizations | `Python` `MERN` `RL` | ✅ |
-| 🔍 **[FortiScan](https://ai-code-security.vercel.app/)** | Detects & auto-remediates vulnerabilities in LLM-generated code. Reduces insecure patterns by 70–85% | `React` `Flask` `Semgrep` | ✅ |
+| 🔐 **GuardOps** *(In Progress)* | Real-time DevSecOps observability platform with threat intelligence, pipeline security & drift detection | `Kubernetes` `Python` `Grafana` `Nginx` | 🚧 |
+| 🔍 **[FortiScan](https://ai-code-security.vercel.app/)** | Detects & auto-remediates vulnerabilities in LLM-generated code. Reduces insecure patterns by 70–85% | `MERN` `Flask` `Semgrep` | ✅ |
 | 🌿 **[Serenity Gardens](https://www.serenitygardens.online/)** | Full-stack MERN e-commerce platform with Razorpay, JWT auth, persistent cart & admin dashboard | `MERN` `TypeScript` `Razorpay` | ✅ |
-| 🗺️ **[Map-It](https://map-it-9g3b.vercel.app/)** | Interactive geolocation utility with Leaflet maps, custom markers, clustering & GeoJSON layers | `React` `Leaflet` `Tailwind` | ✅ |
+| 🗺️ **[Map-It](https://map-it-9g3b.vercel.app/)** | Interactive geolocation utility with Leaflet maps, custom markers, clustering & GeoJSON layers | `MERN` `Leaflet` `Tailwind` | ✅ |
 | 💊 **[NeuroPharm](https://gen-z-ai-neuro-pharm.vercel.app/)** | AI-driven drug discovery platform with AlphaFold + ChEMBL APIs & 3D molecular visualization | `React` `Python` `AlphaFold` | ✅ |
 | 📦 **ConsumeWise AI-Eyes** | Barcode scanner for nutritional analysis using Gemini API with health-risk insights | `Docker` `Gemini API` `MongoDB` | 🔒 |
-| 🔐 **GuardOps** *(In Progress)* | Real-time DevSecOps observability platform with threat intelligence, pipeline security & drift detection | `Kubernetes` `Kafka` `Grafana` `Go` | 🚧 |
 
 </div>
 
@@ -218,20 +204,6 @@ const bihan: Developer = {
 
 ---
 
-## 📈 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bihan-Banerjee/Bihan-Banerjee/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bihan-Banerjee/Bihan-Banerjee/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Bihan-Banerjee/Bihan-Banerjee/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -251,7 +223,5 @@ const bihan: Developer = {
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1f6feb,100:0d1117&height=120&section=footer&animation=twinkling"/>
-
-*"Security is not a product, but a process."*
 
 </div>
