@@ -164,7 +164,7 @@ const bihan: Developer = {
 | Project | Description | Stack | Live |
 |---------|------------|-------|------|
 | 🛡️ **[CyberX](https://cyber-x-coral.vercel.app/)** | AI-powered red/blue team cybersecurity simulator with 25+ tools, PPO agents & real-time globe visualizations | `Python` `MERN` `RL` | ✅ |
-| 🔐 **GuardOps** *(In Progress)* | Real-time DevSecOps observability platform with threat intelligence, pipeline security & drift detection | `Kubernetes` `Python` `Grafana` `Nginx` | 🚧 |
+| 🔐 **[GuardOps](https://dashboard.guardops.live/)** | Real-time DevSecOps observability platform with threat intelligence, pipeline security & drift detection | `Kubernetes` `Python` `Grafana` `Nginx` | ✅ |
 | 🔍 **[FortiScan](https://ai-code-security.vercel.app/)** | Detects & auto-remediates vulnerabilities in LLM-generated code. Reduces insecure patterns by 70–85% | `MERN` `Flask` `Semgrep` | ✅ |
 | 📊 **[SheetSync](https://sheet-sync-beryl.vercel.app/)** | Real-time collaborative spreadsheet with sub-second sync, formula engine, cursor presence & full Google auth — rivalling Google Sheets | `Next.js` `Tailwind` `Firebase` | ✅ |
 | 🌿 **[Serenity Gardens](https://www.serenitygardens.online/)** | Full-stack MERN e-commerce platform with Razorpay, JWT auth, persistent cart & admin dashboard | `MERN` `TypeScript` `Razorpay` | ✅ |
